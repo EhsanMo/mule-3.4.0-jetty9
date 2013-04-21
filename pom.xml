@@ -129,6 +129,8 @@
         <jcrVersion>1.0</jcrVersion>
         <jdomVersion>1.1.1</jdomVersion>
         <jettyVersion>6.1.26</jettyVersion>
+	<jetty8Version>8.1.10.v20130312</jetty8Version>
+	<jetty9Version>9.0.2.v20130417</jetty9Version>
         <jettyServletApiVersion>2.5-20081211</jettyServletApiVersion>
         <jodaTimeVersion>1.6</jodaTimeVersion>
         <jschVersion>0.1.44-1</jschVersion>

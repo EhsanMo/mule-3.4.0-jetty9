@@ -6,8 +6,8 @@
         <artifactId>mule-transports</artifactId>
         <version>3.4.0</version>
     </parent>
-    <artifactId>mule-transport-jetty8</artifactId>
-    <name>Jetty8 Transport</name>
+    <artifactId>mule-transport-jetty9</artifactId>
+    <name>Jetty9 Transport</name>
     <packaging>jar</packaging>
     <description>
         A Mule transport for Jetty Http Connectivity or binding to other Servlet containers. This transport can be used
@@ -15,7 +15,7 @@
     </description>
 
     <properties>
-        <jetty.version>${jetty8Version}</jetty.version>
+        <jetty.version>${jetty9Version}</jetty.version>
     </properties>    
 
     <dependencies>
